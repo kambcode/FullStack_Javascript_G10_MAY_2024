@@ -17,8 +17,13 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/8d8f7da6-aa4c-4d67-9dec-59cd360bda0f)
 
 # Grabaciones de clase
+
 ## Fundamentos
+
 - Cómo instalar VSCode https://youtu.be/2NsfW1Okz2M
 - Cómo instalar GitHub https://youtu.be/ZOUqjep8hWc
 - Cómo usar Discord para las sesiones de trabajo colaborativo https://youtu.be/etfWfN1b0YI
+
 ## Modulo 1
+
+- 14/05/2024 Metodologia de clase, Vscodr, Intro HTML https://youtu.be/RAychjc9wuQ
