@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <!-- Tabla basica -->
+  <!-- Etiqueta principal para las tablas <table> -->
+  <!-- Etiquetas hijas de table <tr> <td>  -->
+  <table border="1">
+    <tr>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>SEIS</td>
+    </tr>
+  </table>
+  <hr>
+  <!-- Tablas con etiquetas semanticas -->
+  <table border="1">
+    <thead>
+      <tr>
+        <!-- <th>Nombre</th>
+        <th>edad</th> -->
+        <th colspan="2">Nombre/edad</th>
+        <th>Nacionalidad</th>
+        <th>Cargo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Pepito</td>
+        <td>15</td>
+        <td>Colombiano</td>
+        <td>Estudiante</td>
+      </tr>
+      <tr>
+        <td>Julian</td>
+        <td>32</td>
+        <td>Colombiano</td>
+        <td>Ingeniero</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Suma edades</td>
+        <td>47</td>
+        <td> <a href="https://google.com" target="_blank">Ir google</a> </td>
+        <td> <a href="./imagenes/ejemplo_excel.xlsx">Ir archivo excel</a> </td>
+      </tr>
+    </tfoot>
+  </table>
+  <hr>
+  <!-- Tabla vertical -->
+  <table border="1">
+    <caption>
+      <h1>Poblacion mosquera</h1>
+    </caption>
+    <tr>
+      <!-- <th>Nombre</th> -->
+      <th rowspan="2">Nombre<br>edad</th>
+      <td>Pepito</td>
+      <td>Julian</td>
+    </tr>
+    <tr>
+      <!-- <th>Edad</th> -->
+      <td>15</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <th>Nacionalidad</th>
+      <td>Colombiano</td>
+      <td>Colombiano</td>
+    </tr>
+    <tr>
+      <th>Cargo</th>
+      <td>Estudiante</td>
+      <td>Ingeniero</td>
+    </tr>
+  </table>
+  <hr>
+  <!-- Tablas con colgroup -->
+  <table border="1">
+    <colgroup>
+      <col style="background-color: yellow;">
+      <col span="2" style="background-color: white;">
+    </colgroup>
+    <tr>
+      <td>Primera columna</td>
+      <td>Segunda columna</td>
+      <td>Tercera columna</td>
+    </tr>
+    <tr>
+      <td>Primera columna</td>
+      <td>Segunda columna</td>
+      <td>Tercera columna</td>
+    </tr>
+  </table>
+  <hr>
+  <!-- Tabla con elementos de formularii -->
+  <table border="1">
+    <tr>
+      <th>Nombre</th>
+      <th>Apellido</th>
+    </tr>
+    <tr>
+      <td><input readonly required type="text" name="nombre" id="nombre" placeholder="Aqui escribe tu nombre"></td>
+      <td><input type="text" name="apll" id="apellido" placeholder="Aqui escribe tu apellido"></td>
+    </tr>
+    <tr>
+      <!-- <td colspan="2" style="text-align:center;"> -->
+      <td colspan="2" align="center">
+        <button>Enviar</button>
+      </td>
+    </tr>
+  </table>
+
+
+</body>
+
+</html>
