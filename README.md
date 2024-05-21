@@ -26,5 +26,6 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 ## Modulo 1
 
-- 14/05/2024 Metodologia de clase, Vscodr, Intro HTML https://youtu.be/RAychjc9wuQ
+- 14/05/2024 Metodologia de clase, Vscode, Intro HTML https://youtu.be/RAychjc9wuQ
 - 16/05/2024 Atributos, Tablas, intro inputs https://youtu.be/pOwCVudBRHg
+- 20/05/2024 tablas y formularios HTML https://youtu.be/_M6KfefF23A

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formularios </title>
+</head>
+
+<body>
+  <!-- Etiqueta principal de los formularios <form> -->
+  <form action="https://google.com" method="GET">
+    <label for="_nombre">Nombre</label>
+    <input type="text" name="variable1" id="_nombre" required>
+    <label for="_cedula">Cedula</label>
+    <input type="text" name="variable2" id="_cedula">
+    <button>Enviar</button>
+  </form>
+  <hr>
+  <!-- Elementos input -->
+  <form action="https://google.com">
+    <fieldset>
+      <legend>Entradas de datos</legend>
+      <label for="_text">Input tipo texto</label> <br>
+      <input type="text" name="text" id="_text" maxlength="10" placeholder="Aqui la instrucción" readonly
+        value="Ramiro"><br>
+      <label for="_password">Input tipo password</label><br>
+      <input type="password" name="password" id="_password"> <br>
+      <label for="_number">Input tipo numero</label><br>
+      <input type="number" name="number" min="3" max="10" id="_number"><br>
+      <label for="textarea">Text area</label><br>
+      <textarea name="textarea" id="textarea"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>Seleccionables</legend>
+      <label for="_checkboy">Input tipo checkbox</label>
+      <input type="checkbox" name="checkbox" id="_checkboy"> <br>
+      <label for="_radio">Hombre</label>
+      <input type="radio" name="radio" id="_radio">
+      <label for="_radio2">Mujer</label>
+      <input type="radio" name="radio" id="_radio2"> <br>
+
+      <label for="_edad_0_5">Edad de 0 a 5</label>
+      <input type="radio" value="5" name="edad" id="_edad_0_5">
+      <label for="_edad_6_10">Edad de 6 a 10</label>
+      <input type="radio" value="10" name="edad" id="_edad_6_10"><br>
+
+
+      <label for="_select">Tipo select</label><br>
+      <select name="select" id="_select">
+        <option value="1">Chrome</option>
+        <option value="2">Firefox</option>
+        <option value="3">Opera</option>
+      </select> <br>
+      <label for="navegador">Elige el navegardor que usas:</label>
+      <input list="navegadores" id="navegador" name="navegador">
+      <datalist id="navegadores">
+        <option value="Chrome"></option>
+        <option value="Firefox"></option>
+        <option value="Firefox_dos"></option>
+        <option value="Opera"></option>
+      </datalist> <br>
+      <label for="_frutas">Tipo select con option group</label><br>
+      <select name="select" id="_frutas">
+        <optgroup label="Frutas tropicales">
+          <option value="piña">Piña</option>
+          <option value="mango">Mango</option>
+        </optgroup>
+        <optgroup label="Frutas citrico">
+          <option value="limon">Limon</option>
+          <option value="naranja">Naranja</option>
+          <option value="mandarina">Mandarina</option>
+        </optgroup>
+      </select> <br>
+    </fieldset>
+    <button>Enviar</button>
+  </form>
+
+</body>
+
+</html>
