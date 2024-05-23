@@ -1,0 +1,79 @@
+/* UN SELECTOR (h2 y h3)  */
+h2, h3 { /* Inicio de bloque ({) */
+  color: blue; /* Las N propiedades de mi regla */
+}/* Cierre de bloque (}) */
+
+h4 {
+  /* Las propiedades se component Nombre (font-size) asignador (:) y el valor (2em) y el cierrr con ;*/
+  font-size: 2em;
+  color: yellow;
+}
+/* TIPOS DE SELECTORES */
+/* Selector universal (*) */
+* {
+  font-style: italic;
+}
+
+/* Selectores de elemento */
+p {
+  font-weight: 900;
+}
+
+/* Selector de clase */
+.color-amarillo {
+  color: yellow;
+}
+
+
+/* Selector de ID */
+#color-azul {
+  color: blue;
+}
+
+#color-rojo {
+  color: red;
+}
+
+/* Selector de atributos */
+[font20] {
+  font-size: 20px;
+  width: 200px;
+}
+
+/* COMBINACION DE SELECTORES */
+/* Combinar selector de elemento, de clase y hermano adyacente (+) */
+div.color-amarillo + p {
+  color: blue;
+} 
+
+/* Combinador de hijo */
+div > p {
+  font-size: 60px;
+}
+
+/* Combinador de descendientes */
+div p {
+  font-weight: 100;
+}
+
+/* Combinador de todos los hermanos (~) */
+div ~ ul {
+  color: aquamarine;
+}
+
+/* Pseudo clases (:) y pseudo elementos (::) */
+p#color-azul:hover {
+  font-weight: 900;
+  color: red;
+}
+
+
+p#color-azul::before {
+  content: "TEXTO: ";
+}
+p::after {
+  content: " .FINAL";
+}
+p#primera-linea-font40::first-line {
+  font-size: 40px;
+}
