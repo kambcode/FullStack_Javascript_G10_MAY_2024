@@ -29,3 +29,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 14/05/2024 Metodologia de clase, Vscode, Intro HTML https://youtu.be/RAychjc9wuQ
 - 16/05/2024 Atributos, Tablas, intro inputs https://youtu.be/pOwCVudBRHg
 - 20/05/2024 tablas y formularios HTML https://youtu.be/_M6KfefF23A
+- 22/05/2024 Introduccion css, estilos en linea, estilos internor, estilso externos, selectores, combiancion de selectores, seudo elementos y seudoclases https://youtu.be/1SoVXHi9HdQ
