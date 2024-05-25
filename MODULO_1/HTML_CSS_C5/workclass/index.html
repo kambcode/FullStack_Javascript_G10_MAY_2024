@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <!-- los id son unicos -->
+    <h1 id="mainTitle"> Modelo de cajas (Box Model)</h1>
+    <!-- las clases se puede reutilizar -->
+    <h3 class="text-green"> Hoy veremos el modelo de cajas </h3>
+    <h3 class="textoAzul"> Para ver el modelo de cajas utilizaremos la etiqute div </h3>
+    <p class="text-green font-12"> Este texto es verde </p>
+
+
+    <h1> Modelo de cajas: </h1>
+    <div class="box">
+        Esto es una caja
+        <p>Hola mundo este es un parrafo</p>
+        <button> registrarse </button>
+    </div>
+     
+    <div class="box-border">
+        <h1> CAJA con borde</h1>
+        <p> Esto es otra caja  </p>
+    </div>
+
+    <h3> 
+        Los bordes pueden ser redondeados 
+    </h3>
+
+    <div class="box-rounded">
+        Esta caja tiene los bordes redondeados
+    </div>
+
+    <h3> 
+        las cajas pueden tener imágenes de fondo 
+    </h3>
+
+    <div class="box-img">
+        <h3>Caja con imagen fondo</h3>
+        <p> 
+            Esta caja tiene una imagen de
+            fondo
+        </p>
+        <img src="https://www.kambcodelatam.com/_next/static/media/logo_small.2e076dcb.svg">
+        
+        <h3>Caja con imagen fondo</h3>
+        <button>Registrate</button>
+    </div>
+
+    <h3> 
+        Los bordes aplican 
+        para más elementos
+    </h3>
+    <input class="border-red" placeholder="Email" >
+    <img class="border-red" src="./paris.jpg" width="200px">
+    <button class="border-red"> Hola Mundo !</button>
+</body>
+</html>

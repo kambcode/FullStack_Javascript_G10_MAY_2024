@@ -1,0 +1,35 @@
+body {
+  color: blue;
+}
+form {
+  color: red;
+  background-color: aquamarine;
+  font-size: 25px;
+}
+input {
+  /* transition: background-color 3s ease; */
+  transition: font-size 3s ease;
+}
+
+input:not([type="submit"])::placeholder {
+  color: red;
+  font-style: italic;
+  font-size: 20px;
+}
+
+input:not([type="submit"]) {
+  background-color: black;
+}
+
+[type="email"] {
+  box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.8);
+}
+
+input:focus {
+  /* outline: 5px solid #005f5f; */
+    font-size: 5px;
+}
+
+#enviar:hover{
+  background-color: red;
+}

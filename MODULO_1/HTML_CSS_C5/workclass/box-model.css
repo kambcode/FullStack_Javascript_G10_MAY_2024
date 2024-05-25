@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+#box-model-1 {
+  /* MARGIN */
+  /* margin-top: 10px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 25px; */
+  /* margin: 10px 20px 20px 25px; */
+  margin: 10px;
+  /* BORDERS */
+  border: 10px solid black;
+  /* border-width: 10px; */
+  /* border-style: solid; */
+  /* border-color: aqua; */
+  
+  border-right: 10px solid blue;
+  /* border-right-width: 10px; */
+  /* border-right-color: blue; */
+  /* border-right-style: solid; */
+
+  /* PADDING */
+  /* padding-top: 10px; */
+  /* padding-right: 15px; */
+  /* padding-bottom: 20px; */
+  /* padding-left: 25px; */
+  /* padding: 10px 15px 20px 25px; */
+  padding: 5px;
+
+  /* CONTENT */
+  width: 800px;
+  height: 80px;
+
+  /* EL SIGUIENTE NO SUMA DENTRO DEL MODELO DE CAJA */
+  border-radius: 10px;
+
+  /* OVERFLOW */
+  overflow: auto;
+}
+
+#cuadrado_global {
+  border: 2px solid black;
+  height: 300px;
+  position: relative;
+}
+
+.cuadrado_global {
+  border: 2px solid black;
+  height: 300px;
+}
+
+[class~="borderojo"]{
+  border: 2px solid red;
+}
+
+#cuadrado_posicionado{
+  position: absolute;
+  top: 100px;
+  left: 20px;
+
+}
+
+#cuadrado_posicionado_dos{
+  position: absolute;
+  top: 200px;
+  left: 350px;
+}
+
+.centrado {
+  width: 200px;
+  margin: auto;
+}

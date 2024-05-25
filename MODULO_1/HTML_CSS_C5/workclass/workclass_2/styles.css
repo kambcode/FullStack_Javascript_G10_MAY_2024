@@ -1,0 +1,81 @@
+.box {
+    background-color: aqua;
+    /* 
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    margin-left: 50px; 
+    */
+
+    margin: 50px 80px 20px 50px;
+
+    /* La siguiente linea deja todas las margenes 
+    de 50px */
+    /* margin: 50px; */
+}
+
+.box-percent {
+    background-color: yellow;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.box-padding{
+    background-color: aquamarine;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.card {
+    width: 400px;
+    border: 2px solid gray;
+    background-color: aquamarine;
+    border-radius: 20px;
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    padding: 20px;
+}
+
+.box-internal {
+    background-color: bisque;
+    border: 2px solid gray; 
+    margin-top: 60px;
+    padding-left: 40px;
+}
+
+.mybutton {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.image-rouded {
+   width: 200px; 
+   height: 200px;
+   border: 10px solid black;
+   border-radius: 100%;
+
+   margin-left: 150px;
+   margin-top: -70px;
+}
+
+
+.center{
+    background-color: yellow;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}

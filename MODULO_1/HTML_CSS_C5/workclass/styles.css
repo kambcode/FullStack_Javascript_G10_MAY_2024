@@ -1,0 +1,62 @@
+body {
+    /* background-color: blue; */
+}
+#mainTitle {
+    color: brown;
+}
+
+.text-green {
+    color: green;
+}
+
+.textoAzul {
+    color: blue;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.box {
+    width: 100px;
+    background-color: aquamarine;
+}
+
+.box-border {
+    width: 200px;
+    background-color: yellow;
+    
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.box-rounded {
+    width: 100px;
+    background-color: aqua;
+    /* 
+    border-color: black;
+    border-width: 2px;
+    border-style: solid; 
+    */
+    border: 2px solid black;
+    
+    /* con la siguiente linea
+    puedo redondear los bordes */
+    border-radius: 10px;
+}
+
+.box-img {
+    /* background-color: yellow; */
+
+    /* background-image permite poner una imagen de fondo */
+    background-image: url("./paris.jpg");
+    /* background-size define el tamaño de 
+    la imagen de fondo */
+    background-size: cover;
+}
+
+.border-red {
+    border: 3px solid red;
+    border-radius: 15px;
+}

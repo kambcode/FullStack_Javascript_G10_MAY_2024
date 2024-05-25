@@ -318,8 +318,8 @@ a:visited {
   color: #00FF00;
 }
 ```
-
 **Tip:**, el selector :hover puede ser utilizado sobre cualquier elemento, no solo sobre links.
+
 
 > El uso de los elementos vistos en códigos complejos y extensos puede llevar a funcionamientos inesperados de nuestra aplicación por cruce de estilos entre reglas definidas por nosotros, por esto es muy importante manejar un flujo de trabajo organizado con buenas prácticas que nos permitan llevar traza de los estilos y reglas que implementamos, también resulta muy importante comprender el tema de la `especificidad` el cual es tema de otro módulo, pero nos permite entender el orden o importancia que se le da a las reglas cuando hay varias que aplican contra un elemento, este orden depende de la manera como fueron declaradas las reglas, puedes leer sobre el tema [**aquí**](https://developer.mozilla.org/es/docs/Web/CSS/Specificity#:~:text=La%20especificidad%20es%20la%20manera,diferentes%20tipos%20de%20selectores%20CSS.).
 
