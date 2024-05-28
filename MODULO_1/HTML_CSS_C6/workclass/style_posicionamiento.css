@@ -1,0 +1,41 @@
+.cuadrado_verde {
+  width: 250px;
+  height: 250px;
+  background-color: green;
+  position: relative;
+  left: 260px;
+  top: 20px
+}
+
+.cuadrado_rojo {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 500px;
+}
+
+.padre-relativo {
+  position: relative;
+}
+
+.contenido-margenes {
+  margin-top: 250px;
+}
+
+.cuadrado_azul {
+  width: 250px;
+  height: 250px;
+  background-color: blue;
+  position: fixed;
+  /* z-index: 1  ;  */ /*Controla la profundida de los elementos*/
+}
+
+.cuadrado_amarillo {
+  width: 250px;
+  height: 80px;
+  background-color: yellow;
+  position: sticky;
+  top: 300px;
+}
