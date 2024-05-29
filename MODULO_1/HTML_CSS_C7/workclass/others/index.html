@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1>Flexbox Clase 1</h1>
+    <p> El comportamiento por defecto de una caja
+        es mostrarse en bloque (display: block)
+    </p>
+    <div class="box"> 
+        Esto es una caja 
+    </div>
+    <div class="box">
+        Esto es otra caja 
+    </div>
+    <h3> 
+        Vamos a usar display flex 
+        para romper el flujo normal 
+        de las cajas 
+    </h3>
+
+    <div class="container">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+    </div>
+
+    <h3> 
+        Display: flex; se combina con
+        justify-content para poder alinear
+        o justificar el contenido 
+    </h3>
+
+    <h4> justify-content: center </h4>
+    <div class="container-center">
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+        <img width="100px" src="./paris.jpg" />
+    </div>
+
+    <h4> justify-content: end </h4>
+    <div class="container-end">
+        <div class="box"> Caja larga muy larga aaaaaaaa </div>
+        <div class="box"> Caja 2 </div>
+        <img width="100px" src="./paris.jpg" />
+    </div>
+
+    <h4> justify-content: space-between </h4>
+    <div class="container-space-between">
+        <div class="box"> Caja 1 </div>
+        <img width="100px" src="./paris.jpg" />
+        <div class="box"> Caja 2 </div>
+    </div>
+
+    <h4> justify-content: space-around </h4>
+    <div class="container-space-around">
+        <div class="box"> Caja 1 </div>
+        <img width="100px" src="./paris.jpg" />
+        <div class="box"> Caja 2 </div>
+    </div>
+
+
+    <h3> Display: flex
+        se puede combinar con la propiedad gap
+        para definir la separación entre los 
+        elementos
+    </h3>
+    <div class="cointainer-gap">
+        <img width="80px" src="./paris.jpg" />
+        <img width="80px" src="./paris.jpg" />
+        <img width="80px" src="./paris.jpg" />
+    </div>
+
+    <h3> 
+        Display: flex
+        se puede combinar con la propiedad 
+        flex-wrap: wrap;
+        para hacer contenedores responsivos
+    </h3>
+
+    <div class="container-responsive"> 
+        <div class="box"> Caja 1 </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+        <div class="box"> Caja 4 </div>
+        <div class="box"> Caja 5 </div>
+        <div class="box"> Caja 6 </div>
+        <div class="box"> Caja 7 </div>
+        <div class="box"> Caja 8 </div>
+        <div class="box"> Caja 8 </div>
+        <div class="box"> Caja 10 </div>
+        <div class="box"> Caja 11 </div>
+        <div class="box"> Caja 12 </div>
+    </div>
+
+
+    <h3> 
+        Display: flex
+        puede alinear elementos verticalmente con 
+        align-items
+    </h3>
+
+    <div class="container-full-center">
+        <div class="box">
+            Caja 1
+        </div>
+        <div>
+            Este texto esta centrado
+        </div>
+        <img width="80px" src="./paris.jpg" />
+    </div>
+
+    <div class="line"></div>
+
+
+</body>
+</html>
