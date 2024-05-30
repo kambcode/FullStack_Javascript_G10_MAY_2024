@@ -1,0 +1,16 @@
+/* MOBILE FIRST */
+h1 {
+  color: green;
+}
+
+@media (min-width: 400px) {
+  h1 {
+    color: blue;
+  } 
+}
+
+@media (min-width: 700px) {
+  h1 {
+    color: red;
+  } 
+}

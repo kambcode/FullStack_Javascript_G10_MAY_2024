@@ -1,0 +1,40 @@
+.cuadro_oscuro {
+  border: 2px solid black;
+  background-color: gray;
+  padding: 20px;
+}
+.cuadro_claro{
+  border: 2px solid black;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.flex-container {
+  /* Esta propiedad es la principal y nos habilita la teoria de flex */
+  display: flex;
+  /* Definicion de eje principal (main axis) */
+  flex-direction: row;
+  /* Control si los flex-item se ajustan en una sola linea o en multiples */
+  flex-wrap: wrap;
+  /* Shorthand de flex-direction y flex-wrap */
+  /* flex-flow: row wrap; */
+  /* Alinear los elemntos flexibles sobre el eje principal */
+  justify-content: space-evenly;
+  /* Alienea los elementos flexibles sobre el eje transversal */
+  align-items: baseline;
+
+  
+  border: 2px solid black;
+  background-color: gray;
+  padding: 20px;
+}
+
+.flex-item {
+  border: 2px solid black;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.modifica_altura {
+  height: 500px;
+}

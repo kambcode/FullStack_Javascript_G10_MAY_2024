@@ -32,3 +32,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 22/05/2024 Introduccion css, estilos en linea, estilos internor, estilso externos, selectores, combiancion de selectores, seudo elementos y seudoclases https://youtu.be/1SoVXHi9HdQ
 - 24/05/2024 Estilos basicos, selectores adicionales, Box model https://youtu.be/8B5RRMaDW3U
 - 27/05/2024 Posicionamiento, background image, background color, opacity, rgba, posicionamiento básico https://youtu.be/FFr6ivveTXE
+- 29/05/2024 Adaptive design, responsive design, flex https://youtu.be/KgxMm0ifTw4
