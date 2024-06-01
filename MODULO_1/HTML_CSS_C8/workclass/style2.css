@@ -1,0 +1,33 @@
+body {
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header, .footer {
+  background-color: #333;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 50px;
+}
+.main-content {
+  flex: 1;
+}
+
+.flex-dafault {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  background-color: gray;
+  padding: 20px;
+  /* width: 200px; */
+  flex-grow: 1;
+}
+
+.content {
+  flex-basis: 80%;
+  padding: 50px;
+}
