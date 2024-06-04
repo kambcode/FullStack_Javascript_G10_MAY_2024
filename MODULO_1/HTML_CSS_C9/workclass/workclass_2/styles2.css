@@ -1,0 +1,57 @@
+body {
+    background-color: aqua;
+}
+.menu {
+    display: flex;
+}
+.item {
+    padding: 10px 40px;
+    background-color: grey;
+    color: white;
+    font-size: 36px;
+}
+
+.hamburger {
+    display: none;
+}
+
+.logo-color{
+    display: block;
+}
+
+.logo-white {
+    display: none;
+}
+
+.banner{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-size: cover;
+    background-image: linear-gradient(90deg, rgba(255, 255, 255), rgba(6, 48, 184, 0.50)), url("https://www.kambcodelatam.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fc1phkeakdkp0%2F3I9hyo1ifgCGz7amYDKs0E%2F98090777fa719f047b35d57ff8e39342%2FManPortrait.png&w=1920&q=75");
+}
+
+@media (max-width: 900px) {
+    .menu {
+        display: none;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .logo-color{
+        display: none;
+    }
+
+    .logo-white {
+        display: block;
+    }   
+}
+
+
+
+@media (min-width: 900px) {
+    /* 900px o mas  */
+    /* Aca van los estilos 
+    de pantallas grandes */
+}
