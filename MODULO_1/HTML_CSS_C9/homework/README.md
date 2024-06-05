@@ -6,7 +6,7 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 Aplica los estilos dados según las condiciones especificadas de manera de llegar a la imagen ejemplo, recuerda que en cuanto a estilos hay infinitas maneras de llegar a la misma solución:
 
-1. Utilizando media queries y flexbox genera un menu responsive que se vea como el siguiente:
+1. (OPCIONAL) Utilizando media queries y flexbox genera un menu responsive que se vea como el siguiente:
 
    - [mediaqueries_homework.webm](https://github.com/kambcode/FullStack_Javascript_G1_2023_06_26/assets/137812574/ec4e36d3-d37a-4cda-bad7-f868d595f106)
 
