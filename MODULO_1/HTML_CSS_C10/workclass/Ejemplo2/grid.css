@@ -1,0 +1,74 @@
+.box {
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 26px;
+}
+
+.container{
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 100px 200px 300px;
+}
+
+.container-full {
+    display: grid;
+    /* 1fr corresponde a el total de el espacio disponible o restante */
+    /* la medida fr (fraccion) existe solo en grid */
+    /* 1fr = una fraccion de el espacio disponible */
+    grid-template-columns: 300px 1fr;
+}
+
+.container-full-double{
+    display: grid;
+    grid-template-columns:  0.5fr 0.5fr;
+}
+
+.grid-container{
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 200px 400px;
+    grid-template-rows: 100px auto;
+}
+
+.container-2 {
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 100px 200px 100px;
+}
+
+.box-double {
+    background-color: greenyellow;
+    font-size: 24px;
+    border: 2px solid red;
+    /* grid colunm define como se comporta esta caja
+    en la cuadricula (comportamiendo en columnas) */
+    grid-column: span 2;
+}
+
+.box-triple { 
+    padding: 10px;
+    background-color: azure;
+    font-size: 24px;
+    border: 2px solid black;
+    grid-column: span 3;
+}
+
+.box-row-span{
+    background-color: greenyellow;
+    font-size: 24px;
+    border: 2px solid red;
+
+    /* grid row define como se comporta esta caja
+    en la cuadricula (comportamiendo en filas) */
+    grid-row: span 2;
+}
+
+img {
+    width: 100%;
+}
+.container-img-grid {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    gap: 5px;
+}

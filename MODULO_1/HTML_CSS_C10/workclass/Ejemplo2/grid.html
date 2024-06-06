@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid</title>
+    <link rel="stylesheet" href="./grid.css">
+</head>
+<body>
+    <h1>Grid View (grid layout)</h1>
+    <h2>El siguiente contendor tiene 3 columnas</h2>
+    <div class="container">
+        <div class="box"> Caja 1 largooo largooo </div>
+        <div class="box"> Caja 2 </div>
+        <div class="box"> Caja 3 </div>
+        <div class="box"> Caja 4 </div>
+        <div class="box"> Caja 5 </div>
+    </div>
+
+
+    <h2>El siguiente contendor tiene 1 columna de 300px
+        y la segunda columna ocupa el resto de el espacio disponible
+        (1fr)
+    </h2>
+
+    <div class="container-full">
+        <div class="box"> Esta columna ocupa 300px</div>
+        <div class="box"> Esta columna ocupa el resto de la pantalla</div>
+    </div>
+
+    <h2> 
+        El siguienete contendor tiene 2 columnas que ocupan el mismo espacio
+        en la pantalla
+    </h2>
+    <div class="container-full-double">
+        <div class="box">Columna 1</div>
+        <div class="box">Colunma 2</div>
+    </div>
+
+    <h2> Puedo definir el tamaño de las filas y de las columnas </h2>
+    <div class="grid-container">
+        <div class="box">Caja 1 fila 1 con 100px de alto hola mundo soy muy grande</div>
+        <div class="box">caja 2</div>
+        <div class="box">caja 3: Segunda fila tiene un alto automatico y se agranda si su contenido es muy largo</div>
+    </div>
+
+
+    <h2> Puedo hacer que una caja ocupe mas de una columna </h2>
+
+    <div class="container-2">
+        <div class="box"> caja 1 </div>
+        <div class="box"> caja 2 </div>
+        <div class="box"> caja 3 </div>
+        <div class="box"> caja 4 </div>
+        <div class="box-double"> Esta caja ocupa dos columnas </div>
+        <div class="box-triple"> caja 6 </div>
+    </div>
+
+    <h2> Pueda hacer que una caja ocupe 2 o mas filas</h2>
+    <div class="container-2">
+        <div class="box-row-span"> caja 1 </div>
+        <div class="box"> caja 2 </div>
+        <div class="box"> caja 3 </div>
+        <div class="box"> caja 4 </div>
+        <div class="box"> caja 5 </div>
+    </div>
+
+    <h2> Ejemplo una cuadricula de imagenes</h2>
+
+    <div class="container-img-grid">
+        <div> <img src="./paris.jpg"> </div>
+        <div> <img src="./paris.jpg"> </div>
+        <div> <img src="./paris.jpg"> </div>
+        <div> <img src="./paris.jpg"> </div>
+        <div> 
+            <h3>Galeria de imagenes</h3> 
+            <h6> Creada por kambcode </h6>
+        </div>
+        <div> <img src="./paris.jpg"> </div>
+        <div> <img src="./paris.jpg"> </div>
+        <div> <img src="./paris.jpg"> </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+.container {
+    font-size: 36px;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    grid-template-rows: 50px 50px 500px;
+}
+
+.red {
+    color: red;
+    /* font-size: 30px;
+    background-color: blue; */
+}
+.head {
+    background-color: aqua;
+    grid-column: span 2;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nav {
+    background-color: beige;
+    grid-column: span 2;
+}
+.content {
+    background-color: aquamarine;
+}
+.sidebar {
+    background-color: yellow;
+}
+
+h1 {
+    margin-top: 4px;
+}
+.title{
+    margin-top: 0px;
+}
+
+.icon {
+    background-color: green;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.icon img {
+    width: 100px;
+}
