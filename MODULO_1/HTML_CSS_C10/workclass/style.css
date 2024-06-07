@@ -1,0 +1,91 @@
+.grid-container {
+  /* Habilitamos el modo grid */
+  display: grid;
+  /* Genera el template de columnas */
+  grid-template-columns: auto auto auto ;
+  /* Genera la separacion entre columnas */
+  column-gap: 5px;
+
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.grid-item {
+  background-color: gray;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.inline-grid-container {
+  /* Habilitamos el modo grid */
+  display: inline-grid;
+  grid-template-columns: auto auto auto ;
+  /* Genera la separacion entre filas */
+  /* row-gap: 5px; */
+  /* Shorthand de separacion filas y columnas */
+  gap: 5px 10px;
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.item-1 {
+  /* Sintaxis completa */
+  /* grid-column-start: 1;
+  grid-column-end: 3; */
+  /* Shorthand grid-column */
+  grid-column: 1 / span 2;
+}
+
+.itemf-1 {
+  /* Sintaxis completa */
+  /* grid-row-start: 1;
+  grid-row-end: 3; */
+  grid-row: 1 / span 2;
+}
+
+.itemf-6 {
+  grid-row-start: 3;
+  grid-row-end: 5;
+}
+
+.grid-container-fix {
+  display: grid;
+  grid-template-columns: 150px auto 1fr;
+
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.grid-container-fix-rows {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 80px 160px 240px;
+
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.grid-container-just {
+  display: grid;
+  grid-template-columns: 70px 70px 70px;
+  justify-content:space-between;
+
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.grid-container-align {
+  display: grid;
+  height: 300px;
+  grid-template-columns: 70px 70px 70px;
+  align-content:center;
+
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 5px;
+}
