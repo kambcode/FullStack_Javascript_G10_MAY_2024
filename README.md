@@ -35,3 +35,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 29/05/2024 Adaptive design, responsive design, flex https://youtu.be/KgxMm0ifTw4
 - 31/05/2024 Flex items, ejercicios con flex https://youtu.be/DBo7AiAmS0w
 - 04/06/2024 Media queries https://youtu.be/F3WN9J6AtDM
+- 06/05/2024 Grid layaut inicio https://youtu.be/M8ZBxs1rVwo
