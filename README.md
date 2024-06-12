@@ -36,3 +36,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 31/05/2024 Flex items, ejercicios con flex https://youtu.be/DBo7AiAmS0w
 - 04/06/2024 Media queries https://youtu.be/F3WN9J6AtDM
 - 06/05/2024 Grid layaut inicio https://youtu.be/M8ZBxs1rVwo
+- 11/06/2024 Cierre grid, comparativo float, flex y grid https://youtu.be/ACRX__L0fqQ

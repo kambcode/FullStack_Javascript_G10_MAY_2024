@@ -1,0 +1,91 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  gap: 10px;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.grid-container > div, .grid-container-named > div, .grid-container-named-2 > div, .grid-container-semantico > div {
+  background-color: gray;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+}
+
+.item8 {
+  /* grid-row-start / grid-column-start / grid-row-end / grid-column-end */
+  grid-area: 1 / 2 / 5 / 6;
+}
+
+.item-8 {
+  grid-area: 2 / 1 / span 2 / span 3;
+}
+/* GRID TEMPLATE AREAS NAMED */
+.grid-container-named {
+  display: grid;
+  grid-template-areas: 'myArea myArea myArea myArea myArea myArea';
+  gap: 10px;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.grid-container-named > .item_7 {
+  grid-area: myArea;
+}
+
+.grid-container-named-2 {
+  display: grid;
+  grid-template-areas: 
+    'myArea myArea myArea . . .'
+    'myArea1 myArea1 myArea1 . . . ';
+  gap: 10px;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.grid-container-named-2 > .item_7 {
+  grid-area: myArea;
+}
+
+.grid-container-named-2 > .item_1 {
+  grid-area: myArea1;
+}
+
+.grid-container-semantico {
+  display: grid;
+  grid-template-areas:
+    'HEADER HEADER HEADER'
+    'MENU MAIN RIGHT'
+    'MENU FOOTER FOOTER';
+  gap: 10px;
+}
+
+.griditem_footer {
+  grid-area: FOOTER;
+}
+.griditem_right {
+  grid-area: RIGHT;
+}
+.griditem_main {
+  grid-area: MAIN;
+}
+.griditem_menu {
+  grid-area: MENU;
+}
+.griditem_header {
+  grid-area: HEADER;
+}
+
+@media screen and (max-width: 600px) {
+  .grid-container-semantico {
+    display: grid;
+    grid-template-areas:
+      'HEADER'
+      'MENU '
+      'MAIN'
+      'RIGHT'
+      'FOOTER';
+    gap: 10px;
+  }
+}
