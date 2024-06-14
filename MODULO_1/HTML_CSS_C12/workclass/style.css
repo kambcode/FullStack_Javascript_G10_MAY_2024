@@ -1,0 +1,21 @@
+/* section {
+  align-content: center;
+  display: block;
+}
+
+h1 {
+  margin: 0 auto;
+} */
+
+body {
+  padding: 100px;
+}
+.el-img {
+  box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+}
+
+.filter-shadow {
+  filter: drop-shadow(
+    0 0 10px rgba(0, 0, 0, .8)
+  );
+}

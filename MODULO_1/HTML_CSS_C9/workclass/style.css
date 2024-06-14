@@ -45,6 +45,14 @@ img {
   }
 }
 /* DISPOSITIVOS MEDIANOS */
+/*  
+  NUEVA SINTAXIS
+  @media (min-width: 300px) {} Antigua
+  @media (width > 300px) {} NUeva (sintaxis de rango)
+
+  @media screen and (min-width: 601px) and (max-width: 768px) {} Antigua
+  @media screen and (600px  < width < 768px) {} Nueva (sintaxis de rango)
+*/
 @media screen and (min-width: 601px) and (max-width: 768px) {
   body {
     font-size: 28px;
