@@ -38,3 +38,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 06/05/2024 Grid layaut inicio https://youtu.be/M8ZBxs1rVwo
 - 11/06/2024 Cierre grid, comparativo float, flex y grid https://youtu.be/ACRX__L0fqQ
 - 13/06/2024 Subgrid, auto-fill, auto-fit, nueva sintaxis media queries https://youtu.be/7am7QhLWHcM
+
+## Modulo 2
+
+- C1. 17/06/2024 Introducción Variables: https://youtu.be/eAaz2AzWsyE
