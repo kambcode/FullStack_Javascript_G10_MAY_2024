@@ -42,3 +42,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Modulo 2
 
 - C1. 17/06/2024 Introducción Variables: https://youtu.be/eAaz2AzWsyE
+- C2. 19/06/2024 Condicionales (if-else): https://youtu.be/Uy5f3XQvsIs
