@@ -43,3 +43,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 - C1. 17/06/2024 Introducción Variables: https://youtu.be/eAaz2AzWsyE
 - C2. 19/06/2024 Condicionales (if-else): https://youtu.be/Uy5f3XQvsIs
+- C3. 21/06/2024 Constantes y operadores lógicos en JS: https://youtu.be/_XwvhINIUmc
