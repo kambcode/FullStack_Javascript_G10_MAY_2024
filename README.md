@@ -45,3 +45,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C2. 19/06/2024 Condicionales (if-else): https://youtu.be/Uy5f3XQvsIs
 - C3. 21/06/2024 Constantes y operadores lógicos en JS: https://youtu.be/_XwvhINIUmc
 - C4. 24/06/2024 if / else if / else: https://youtu.be/9bnTfqxBk0I 
+- C5. 26/06/2024 Ciclos while y for: https://youtu.be/8YwQjyU5dps
