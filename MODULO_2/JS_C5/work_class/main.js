@@ -85,19 +85,21 @@
 
 for(var number2 = 1; number2 <= 10; number2++){
     const tableResult = 3 * number2; // 3 * 1 = 3
-    document.write("<br>3 * ", number2, " es igual = ", tableResult);// 3 * 1 es igual = 3
+    // document.write("<br>3 * ", number2, " es igual = ", tableResult);// 3 * 1 es igual = 3
     // for(var count = 1; count <= 3; count++){
     //     document.write("<br>HOLA MUNDO");
     // }
 }
 
-document.write("<br>FIN DEL PROGRAMA")
+// document.write("<br>FIN DEL PROGRAMA")
 
 var name = "kambcode";
 var age = 32;
 
-document.write("hola ", name, " tu edad es: ", age)
+// document.write("hola ", name, " tu edad es: ", age)
 // template literals
 // Crear cadenas de texto que permite interpolar expresion y variables (con comillas invertidad)
 // document.write(`<br>hola ${name} tu edad es: ${age}`);
+
+
 
