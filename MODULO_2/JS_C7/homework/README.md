@@ -14,7 +14,7 @@ Como tarea te proponemos crear algunos programas usando todo lo visto hasta ahor
 
 3. Dado un array 5 elementos de strings eg. `const myArray = ["hola", "mundo", "como", "estas", "hoy"]`. Copia los elementos del arreglo en un nuevo arreglo pero en orden inverso, y muéstralo por la pantalla. **Tip** puedes hacer un for que inicie en myArray.length y que en cada iteracion en ves de sumar reste una posicion así podras leer tu arreglo en sentido contrario
 
-4. Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de compras y las vaya almacenando cada una de estos elementos en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) elemento NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Este elementos ya esta en la lista de compras".
+4. **Opcional** Escribir un programa usando HTML, Javascript y la función promt que pregunte a el usuario una lista de compras y las vaya almacenando cada una de estos elementos en un array. Si en algun momento la tarea que el usuario ingreso ya fue ingresada anteriormente (es decir ya pertence a el array) elemento NO debe añadirse a el array y en su defecto mostrar un mensaje que diga "Error: Este elementos ya esta en la lista de compras".
 
 El programa termina cuando la lista de compras tenga 5 elementos 
 **NOTA** recuerda que para saber si un elemento ya esta en el array puedes usar la función includes eg: `myArray.includes(<ELEMENTO_QUE_QUIERES_BUSCAR_EN_EL_ARRAY>)`
