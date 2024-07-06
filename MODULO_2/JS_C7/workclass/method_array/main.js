@@ -22,7 +22,8 @@ const todoList = ["hacer la tarea", "lavarme los dientes", "dormir"]
 todoList[1] = "acostarme"
 // console.log("Nuevo arreglo", todoList);
 
-// 5. Podemos saber si el arrego incluye o no un elemento .includes()
+// 5. Podemos saber si el arreglo incluye o no un elemento .includes()
 
-console.log("Dentro del arreglo esta dormir?", todoList.includes("dormir"))
+console.log("Dentro del arreglo esta dormir?", todoList.includes("dormir")) // true
+console.log("Dentro del arreglo esta peinarme?", todoList.includes("peinarme")) // false
 

@@ -17,4 +17,7 @@ console.log("Numero aleatorio entre 15 y 30", aleatorio);
 // Math.round() -> Redondea un numero
 console.log("Mi numero aleatorio redondeado es: ", Math.round(aleatorio))
 
+// Math.round() -> Esto deja un numero 
+// .toFixed() -> Convierte nuestro numero a string
+
 const myArray = ["hola", "mundo", "como", "estas", "hoy"]
