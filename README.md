@@ -49,3 +49,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 28/06/2024 Var y let / Scope / Instalación de node JS: https://youtu.be/5E3Oxa85hO8
 - C7. 03/07/2024 Arrays y Math: https://youtu.be/ecVWv9tS9CM
 - C8. 05/07/2024 Funciones: https://youtu.be/G-2QAfiakIQ
+- C9. 08/07/2024 Repaso Condicionales, Ciclos, Array y Funciones: https://youtu.be/86fZkPejkAU
