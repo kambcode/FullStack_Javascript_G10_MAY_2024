@@ -51,3 +51,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8. 05/07/2024 Funciones: https://youtu.be/G-2QAfiakIQ
 - C9. 08/07/2024 Repaso Condicionales, Ciclos, Array y Funciones: https://youtu.be/86fZkPejkAU
 - C10. 11/07/2024 Objetos y Arrow Function: https://youtu.be/UEbzBi1rcgA
+- C11. 12/07/2024 Modificando el DOM: https://youtu.be/Tu0LO7YLUPo
