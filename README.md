@@ -53,3 +53,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C10. 11/07/2024 Objetos y Arrow Function: https://youtu.be/UEbzBi1rcgA
 - C11. 12/07/2024 Modificando el DOM: https://youtu.be/Tu0LO7YLUPo
 - C12. 15/07/2024 Algoritmia: https://youtu.be/aJep8pDBSrw
+
+## Modulo 3
+
+- C1. 22/07/2024 Introducción a git https://youtu.be/OybB-EDB0EY
