@@ -58,3 +58,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 - C1. 22/07/2024 Introducción a git https://youtu.be/OybB-EDB0EY
 - C2. 24/07/2024 Repaso comandos básicos de git y creación de ramas https://youtu.be/iRim9vxaVR4
+- C3. 26/07/2024 Workshop de paso a paso de como subir tareas a github https://youtu.be/gZ4MV_TMrxQ
