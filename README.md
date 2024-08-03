@@ -61,3 +61,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C3. 26/07/2024 Workshop de paso a paso de como subir tareas a github https://youtu.be/gZ4MV_TMrxQ
 - C4. 29/07/2024 Repaso del paso a paso de como subir tareas a github y algunos comandos de git como reset, revert, stash, log y reflog https://youtu.be/MDOib3S8qVk
 - C5. 31/07/2024 Markdown y repaso comparadores https://youtu.be/fUVuACZMY1Q
+- C6. 02/08/2024 Coercion y operadores lógicos https://youtu.be/NOXOYv6d9ag
