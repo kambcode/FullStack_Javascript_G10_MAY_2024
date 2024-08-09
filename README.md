@@ -64,3 +64,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 02/08/2024 Coercion y operadores lógicos https://youtu.be/NOXOYv6d9ag
 - C7. 05/08/2024 Arrays https://youtu.be/tZwoh46gb3o
 - C7. 05/08/2024 Objetos https://youtu.be/tU92D1Wr7Ls
+- C8. 08/07/2024 Es6 Array features y scope https://youtu.be/tuVlyV3ypto
