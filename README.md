@@ -66,3 +66,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C7. 05/08/2024 Objetos https://youtu.be/tU92D1Wr7Ls
 - C8. 08/07/2024 ES6 Array features y scope https://youtu.be/tuVlyV3ypto
 - C9. 12/07/2024 Functions y Callbacks https://youtu.be/2yroyBEulXg
+- C10. 14/07/2024 Repaso callbacks y Promesas https://youtu.be/yZhZrQr7xgo
