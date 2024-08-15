@@ -88,7 +88,7 @@ myForEach(animals, (animal, index) => {
 
 
 // Async callbacks -> Se ejecutan cuando algo pasa (un evento ocurre)
-// Simulemos un autoservicio
+// Simulemos un autoservicio de comida rapida
 const atenderCarro1 = (callback) => {
     setTimeout(() => {
         console.log('Atendiendo carro 1...');
