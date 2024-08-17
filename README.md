@@ -64,6 +64,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 02/08/2024 Coercion y operadores lógicos https://youtu.be/NOXOYv6d9ag
 - C7. 05/08/2024 Arrays https://youtu.be/tZwoh46gb3o
 - C7. 05/08/2024 Objetos https://youtu.be/tU92D1Wr7Ls
-- C8. 08/07/2024 ES6 Array features y scope https://youtu.be/tuVlyV3ypto
-- C9. 12/07/2024 Functions y Callbacks https://youtu.be/2yroyBEulXg
-- C10. 14/07/2024 Repaso callbacks y Promesas https://youtu.be/yZhZrQr7xgo
+- C8. 08/8/2024 ES6 Array features y scope https://youtu.be/tuVlyV3ypto
+- C9. 12/08/2024 Functions y Callbacks https://youtu.be/2yroyBEulXg
+- C10. 14/08/2024 Repaso callbacks y Promesas https://youtu.be/yZhZrQr7xgo
+- C11. 16/08/2024 Paralelismo en promesas y jsonplaceholder https://youtu.be/yn1gIlwPERQ
