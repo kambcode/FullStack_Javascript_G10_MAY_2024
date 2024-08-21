@@ -68,3 +68,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C9. 12/08/2024 Functions y Callbacks https://youtu.be/2yroyBEulXg
 - C10. 14/08/2024 Repaso callbacks y Promesas https://youtu.be/yZhZrQr7xgo
 - C11. 16/08/2024 Paralelismo en promesas y jsonplaceholder https://youtu.be/yn1gIlwPERQ
+- C12. 20/08/2024 Async await https://youtu.be/r07vBsZxnYc

@@ -1,4 +1,4 @@
-// Manejo de multiples promesas
+// Manejo de multiples promesas (cuando ninguna promesa depende de otra)
 
 // Promise.all
 // Este método toma un array de promesas y devuelve una nueva promesa que se resuelve cuando TODAS las promesas en el array se han resuelto,
