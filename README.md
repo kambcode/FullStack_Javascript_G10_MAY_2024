@@ -74,3 +74,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 - C1. 26/08/2024 Repaso del DOM y Metodo HTTP https://youtu.be/iy1heKCySQ0
 - C2. 28/08/2024 Funcion Fetch y CRUD con postman https://youtu.be/YfstLYMJzAI
+- C3. 31/08/2024 Que es un Componentes y Props? https://youtu.be/kHUV9uN9rGw
