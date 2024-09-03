@@ -1,16 +1,14 @@
 import './App.css'
-import { Descripcion } from './components/descripcion/descripcionComponent'
-import { Imagen } from './components/imagen/imagenComponent'
-import { Nombre } from './components/nombre/nombreComponents'
-
+import CharacterCard from './components/characterCard/characterCard'
 
 function App() {
 
   return (
-    <div className='card'>
-      <Imagen />
-      <Nombre name='rick'/>
-      <Descripcion descripcion='hola como estas'/>
+    <div>
+      <CharacterCard img='descarga.jpeg' name='Heroe de marvel' genre='spider' description='arana'/>
+      <CharacterCard  img='descarga.jpeg' name='peter packer' genre='masculino' description='estudiante'/>
+      <CharacterCard  img='descarga.jpeg' name='martha' genre='femenino' description='profesora'/>
+      <CharacterCard  img='descarga.jpeg' name='jhonny' genre='estudiante' description='estudiante'/>
     </div>
   )
 }

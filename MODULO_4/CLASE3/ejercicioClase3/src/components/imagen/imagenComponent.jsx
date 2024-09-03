@@ -1,9 +1,11 @@
 import React from 'react'
 
-export const Imagen = () => {
+export const Imagen = (props) => {
+  console.log(props,'props');
+  
   return (
     <div>
-        <img className='img' src="/descarga.jpeg" alt='imagen' />
+        <img className='img' src={props.img} alt='imagen' />
     </div>
   )
 }
