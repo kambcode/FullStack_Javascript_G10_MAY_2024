@@ -78,3 +78,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C4. 02/09/2024 Hook useState y useEffect https://youtu.be/iSC1pIZiQFs
 - C5. 04/09/2024 Tipos de eventos y login ejercicio practico https://youtu.be/Wl7LDIXtusc
 - C6. 06/09/2024 Funcion map y Se consume API rick para mostrar todos los personajes https://youtu.be/rjNi-E5Gbng
+- C7. 09/09/2024 Explicacion de biblioteca router dom y ejercicio practico https://youtu.be/wK53aKSM-Q0
