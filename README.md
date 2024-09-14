@@ -80,3 +80,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6. 06/09/2024 Funcion map y Se consume API rick para mostrar todos los personajes https://youtu.be/rjNi-E5Gbng
 - C7. 09/09/2024 Explicacion de biblioteca router dom y ejercicio practico https://youtu.be/wK53aKSM-Q0
 - C8. 11/09/2024 Ejercicio practico de crear un buscador y explicacion del hook useSearchParam https://youtu.be/q_3M0iys9k8
+- C9. 13/09/2024 Hooks Router Location y navigate y ejercicios practicos https://youtu.be/6KncuqeJouY
