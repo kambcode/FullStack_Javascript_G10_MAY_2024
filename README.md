@@ -82,3 +82,7 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8. 11/09/2024 Ejercicio practico de crear un buscador y explicacion del hook useSearchParam https://youtu.be/q_3M0iys9k8
 - C9. 13/09/2024 Hooks Router Location y navigate y ejercicios practicos https://youtu.be/6KncuqeJouY
 - C10. 16/09/2024 Instalacion de vercel y despliegue del proyecto https://youtu.be/T3N0FrGv08c
+
+## Modulo 5
+
+- C1 09/23/2024 Repaso JS https://youtu.be/BKDRX7PzYWM
