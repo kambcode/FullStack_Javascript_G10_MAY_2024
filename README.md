@@ -87,3 +87,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 - C1 23/09/2024 Repaso JS https://youtu.be/BKDRX7PzYWM
 - C2 25/09/2024 Crear un proyecto en node https://youtu.be/tB8Z1uZHSEA
+- C3 27/09/2024 Promesas, async/await, callback hell https://youtu.be/Hrn5KFMguks
