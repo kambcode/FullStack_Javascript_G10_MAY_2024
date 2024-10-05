@@ -90,3 +90,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C3 27/09/2024 Promesas, async/await, callback hell https://youtu.be/Hrn5KFMguks
 - c4 30/09/2024 Streams, buffers y repaso async await  https://youtu.be/Bux8oSYcM80
 - C5 02/10/2024 Crear Servidor Http https://youtu.be/XyXXH2jFOLU
+- C6 04/10/2024 Variables de entorno, argumentos por comandos y repaso https://youtu.be/0DtJEPRW1oI
