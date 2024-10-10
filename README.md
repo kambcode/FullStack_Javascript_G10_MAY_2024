@@ -91,3 +91,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - c4 30/09/2024 Streams, buffers y repaso async await  https://youtu.be/Bux8oSYcM80
 - C5 02/10/2024 Crear Servidor Http https://youtu.be/XyXXH2jFOLU
 - C6 04/10/2024 Variables de entorno, argumentos por comandos y repaso https://youtu.be/0DtJEPRW1oI
+- C7 Crear Servidor con express https://youtu.be/YirOVp-a5jE
+- C8 Repaso clase 7 y clase 5 https://youtu.be/YirOVp-a5jE
