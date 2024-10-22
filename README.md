@@ -95,3 +95,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C8 09/10/2024 Repaso clase 7 y clase 5 https://youtu.be/YirOVp-a5jE
 - C9 10/10/2024 Middlewares https://youtu.be/0-Y4F4B_WGo
 - C10 15/10/2024 Api de open AI https://youtu.be/uWJQQT6vQZk
+- c11 18/10/2024 Conectar Frontend con Backend https://youtu.be/JRN2Kx8QU6I
