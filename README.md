@@ -101,3 +101,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 - C1 28/10/2024 Base De datos - Relaciones https://youtu.be/iXwirAg_0Ho
 - C2 29/10/2024 Relaciones many to many - PostgreSQL https://youtu.be/h0yTHgLPiC8
+- C3 01/11/2024 SQL sentencias DDL - https://youtu.be/qaoOBn6Vg3s
