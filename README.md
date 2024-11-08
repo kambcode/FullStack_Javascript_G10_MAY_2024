@@ -103,3 +103,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C2 29/10/2024 Relaciones many to many - PostgreSQL https://youtu.be/h0yTHgLPiC8
 - C3 01/11/2024 SQL sentencias DDL - https://youtu.be/qaoOBn6Vg3s
 - C4 05/11/2024 SQL SENTENCIA SELECT - https://youtu.be/G1kgZT-ZJ9M
+- C4.5 07/11/2024 Recuento Tarea 4 y 5 - https://youtu.be/SfB8trpG_ms
