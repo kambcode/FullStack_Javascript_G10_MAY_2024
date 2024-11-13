@@ -106,3 +106,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C4.5 07/11/2024 Recuento Tarea 4 y 5 - https://youtu.be/SfB8trpG_ms
 - C5 08/11/2024 SQL JOIN - https://youtu.be/agEjYM92L74
 - C6 08/11/2024 Express Repaso - https://youtu.be/agEjYM92L74
+- C7 12/11/2024 Sequelize ORM - https://youtu.be/GCRi7Q8d_IM
