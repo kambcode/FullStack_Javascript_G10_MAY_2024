@@ -108,4 +108,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - C6 08/11/2024 Express Repaso - https://youtu.be/agEjYM92L74
 - C7 12/11/2024 Sequelize ORM - https://youtu.be/GCRi7Q8d_IM
 - C8 14/11/2024 Sequelize Modelos y Metods Nativos - https://youtu.be/zl0byqTixgU
-- C8 15/11/2024 Sequelize Relaciones - https://youtu.be/QPW4GuHMMPE
+- C9 15/11/2024 Sequelize Relaciones - https://youtu.be/QPW4GuHMMPE
+- C10 18/11/2024 Authorizacion - Login y Registro - https://youtu.be/WDb03pV-dkQ
